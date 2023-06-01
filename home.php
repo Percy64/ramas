@@ -1,3 +1,3 @@
-<?php
+gir <?php
 
 echo 'isei'
